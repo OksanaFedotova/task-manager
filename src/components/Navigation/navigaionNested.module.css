@@ -1,0 +1,10 @@
+.menu {
+  position: absolute;
+  top: 65px;
+  left: 55%;
+  background-color: white;
+  width: 200px;
+  display: flex;
+  padding: 5px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.22);
+}
